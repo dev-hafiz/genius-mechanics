@@ -1,0 +1,11 @@
+.service-card{
+color: #1a1a1b;
+background-color: rgba(240, 240, 240, 0.808);
+}
+.service-card img{
+     width: 430px;
+     height: 350px;
+}
+body{
+     overflow-x: hidden;
+}

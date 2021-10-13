@@ -1,0 +1,50 @@
+[
+  {
+     "id" : 1,
+    "name": "WHEEL ALIGNMENT",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/VNGNPj1/s1.png",
+    "descripton" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis alias, excepturi nemo quam dolorum nesciunt odit enim ipsam! Necessitatibus eos nemo facilis dolorem. Laboriosam porro magni asperiores? Adipisci, natus corporis!"
+  },
+  {
+     "id" : 2,
+    "name": "AIR TRANSPARET SYSTEM",
+    "price": 2500,
+    "time": 3,
+    "img": "https://i.ibb.co/y8FTcPR/s2.png",
+    "descripton" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis alias, excepturi nemo quam dolorum nesciunt odit enim ipsam! Necessitatibus eos nemo facilis dolorem. Laboriosam porro magni asperiores? Adipisci, natus corporis!"
+  },
+  {
+     "id" : 3,
+    "name": "ENGINE DIAGONISCTIC",
+    "price": 1500,
+    "time": 1.5,
+    "img": "https://i.ibb.co/3TGmZjd/s3.png",
+    "descripton" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis alias, excepturi nemo quam dolorum nesciunt odit enim ipsam! Necessitatibus eos nemo facilis dolorem. Laboriosam porro magni asperiores? Adipisci, natus corporis!"
+  },
+  {
+     "id" : 4,
+    "name": "OIL CHAINGING",
+    "price": 3000,
+    "time": 2.5,
+    "img": "https://i.ibb.co/qYS0kJ8/s4.png",
+    "descripton" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis alias, excepturi nemo quam dolorum nesciunt odit enim ipsam! Necessitatibus eos nemo facilis dolorem. Laboriosam porro magni asperiores? Adipisci, natus corporis!"
+  },
+  {
+     "id" : 5,
+    "name": "BREAKE REPARING",
+    "price": 1000,
+    "time": 1,
+    "img": "https://i.ibb.co/NTS18js/s5.png",
+    "descripton" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis alias, excepturi nemo quam dolorum nesciunt odit enim ipsam! Necessitatibus eos nemo facilis dolorem. Laboriosam porro magni asperiores? Adipisci, natus corporis!"
+  },
+  {
+     "id" : 6,
+    "name": "WASH AND GLASSHIG",
+    "price": 3500,
+    "time": 2.6,
+    "img": "https://i.ibb.co/jrf1FVk/s6.png",
+    "descripton" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis alias, excepturi nemo quam dolorum nesciunt odit enim ipsam! Necessitatibus eos nemo facilis dolorem. Laboriosam porro magni asperiores? Adipisci, natus corporis!"
+  }
+]
